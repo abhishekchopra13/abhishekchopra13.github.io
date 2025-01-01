@@ -25,6 +25,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abhishekchopra13.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: abhiii_13
 github_username:  abhishekchopra13
+linkedin_username: abhiii13
+home_name: "Home" # Used in header.html
 
 
 # Build settings
@@ -39,7 +41,7 @@ header_pages:
 social_links:
   - { platform: github,   user_url: "https://github.com/abhishekchopra13" }
   - { platform: twitter,  user_url: "https://x.com/abhiii_13" }
-  - { platform: linkedin, user_url: "https://www.linkedin.com/in/jekyll" }
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/abhiii13" }
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
