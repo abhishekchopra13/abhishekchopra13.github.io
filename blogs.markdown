@@ -4,5 +4,5 @@ title: Blogs
 permalink: /blogs/
 ---
 
-## Test
-[Test]({% post_url 2025-01-01-test %})
+## FX PNL Computation
+[FX PNL Computation]({% post_url 2026-06-16-fx-pnl-computation %})

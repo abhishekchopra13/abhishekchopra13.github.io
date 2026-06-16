@@ -36,6 +36,7 @@ plugins:
 
 header_pages:
   - about.markdown
+  - resources.markdown
   - blogs.markdown
 
 social_links:
@@ -60,4 +61,6 @@ social_links:
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
-#   - vendor/ruby/
+# Sass Compiler Settings
+sass:
+  quiet_deps: true
